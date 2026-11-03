@@ -61,14 +61,15 @@
         </a>
       </p>
     </td>
+
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ Veil VPN</h3>
+      <h3 align="center">🔗 Veil Connect</h3>
       <p align="center">
-        A privacy-focused desktop VPN application with a modern user interface.
+        A mobile application focused on connection management and configuration handling, featuring a clean and intuitive interface.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Desktop_App-7F52FF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Privacy_Focused-30363D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Mobile_App-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Privacy_Focused-7F52FF?style=flat-square"/>
       </p>
       <p align="center">
         <a href="#">
@@ -100,6 +101,7 @@
   <a href="https://github.com/SamanXdev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="mailto:samanh.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
