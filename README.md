@@ -1,77 +1,112 @@
 <div align="center">
-  <img src="./Github-banner-samanxdev.png" alt="Cover art" width="100%"/>
+  <img src="./Github-banner-samanxdev.png" alt="SamanX Dev Banner" width="100%"/>
 </div>
 
-<h2 align="center">Hi there 👋</h2>
+<br>
+
+<h1 align="center">Hey, I'm Saman 👋</h1>
+
+<h3 align="center">
+  Software Developer | Backend Developer | Web Designer
+</h3>
 
 <p align="center">
-  I'm <b>Saman</b><br>
-  💻 Backend developer passionate about building scalable, reliable applications<br>
-  🐍 Mainly working with <b>Python</b> and <b>Django</b>.<br>
-  ⚡ Enthusiastic about clean code, open source, and continuous learning
+  Building modern web experiences and developing reliable software.
+  <br>
+  Passionate about clean code, thoughtful design, and exploring new technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/SamanXdev">
+    <img src="https://img.shields.io/badge/GitHub-SamanXdev-181717?style=flat-square&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-7F52FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-3776AB?style=flat-square"/>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Skills & Tools</h3>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<h3 align="center">💻 Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,git,docker,html,css,bootstrap,ps,pr" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,django,kotlin,js,html,css,bootstrap,docker,git&theme=dark" alt="Development Skills"/>
+</p>
+
+<h3 align="center">🎨 Design & Creative Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,pr&theme=dark" alt="Creative Tools"/>
 </p>
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📬 Postino</h3>
+      <p align="center">
+        A postal management system featuring tracking codes and mail delivery records.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/SamanXdev/Postino">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Veil VPN</h3>
+      <p align="center">
+        A privacy-focused desktop VPN application with a modern user interface.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Desktop_App-7F52FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Privacy_Focused-30363D?style=flat-square"/>
+      </p>
+      <p align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Coming_Soon-30363D?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  🔹 <a href="https://github.com/SamanXdev/Postino">Postino</a> – A postal site with tracking code and mail delivery record.<br>
-  🔹 <a href="#">Project 2</a> – Short description.
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamanXdev&theme=github_dark" alt="GitHub Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamanXdev&theme=github_dark" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamanXdev&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamanXdev&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamanXdev&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamanXdev&theme=tokyonight"
-    alt="Repositories per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamanXdev&theme=tokyonight&utcOffset=3.5"
-    alt="Productive Time"
-  />
-</p>
-
----
-
-<h3 align="center">📫 How to reach me</h3>
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/SamanXdev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
   <a href="mailto:samanh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
+<br>
 
-<p align="center">✨ Always curious, always coding. ✨</p>
+<p align="center">
+  <i>Building today. Innovating tomorrow.</i>
+</p>
