@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-SamanXdev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-8A2BE2?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Always%20Learning-007ACC?style=for-the-badge" alt="Status"/>
 </p>
 
